@@ -1,0 +1,46 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence0.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence1.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence2.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence3.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence4.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence5.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence6.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence7.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence8.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence9.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence10.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence11.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence12.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence13.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence14.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence15.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence16.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence17.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence18.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence19.ts
+#EXTINF:10, no desc
+http://devimages.apple.com/iphone/samples/bipbop/gear1/fileSequence20.ts
+#EXT-X-ENDLIST
