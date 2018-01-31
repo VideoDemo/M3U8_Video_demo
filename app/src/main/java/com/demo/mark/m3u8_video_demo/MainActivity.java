@@ -53,7 +53,8 @@ public class MainActivity extends AppCompatActivity {
                 // TODO 确保此网络文件可用
 //                String path2 = "http://ad.i5suoi.com/video/94.m3u8";
 //                String path2 = "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8";
-                String path2 = "http://ziqi.hotyoso.com/v/135/159/2/0/04a4c9c63f9748eb8323032d345d911b/848X480/04a4c9c63f9748eb8323032d345d911b.m3u8";
+//                String path2 = "http://ziqi.hotyoso.com/v/135/159/2/0/04a4c9c63f9748eb8323032d345d911b/848X480/04a4c9c63f9748eb8323032d345d911b.m3u8";
+                String path2 = "http://p322hsvks.bkt.clouddn.com/chunxiao.mp3";
                 Log.i(TAG, "path2 : "+path2);
                 playVideo(path2, "播放网络M3U8");
             } else if (id == R.id.play_location_m3u8) {
